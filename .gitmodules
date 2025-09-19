@@ -1,0 +1,12 @@
+[submodule "kringetify-fe"]
+	path = kringetify-fe
+	url = https://github.com/Stanley77-web/kringetify-fe.git
+[submodule "kringetify-premium-fe"]
+	path = kringetify-premium-fe
+	url = https://github.com/Stanley77-web/kringetify-premium-fe.git
+[submodule "kringetify-rest-service"]
+	path = kringetify-rest-service
+	url = https://github.com/Stanley77-web/kringetify-rest-service.git
+[submodule "kringetify-soap-service"]
+	path = kringetify-soap-service
+	url = https://github.com/Stanley77-web/kringetify-soap-service.git
